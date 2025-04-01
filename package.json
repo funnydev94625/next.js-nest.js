@@ -40,7 +40,7 @@
     "@nestjs/typeorm": "^10.0.2",
     "apollo-server-express": "^3.11.1",
     "axios": "^1.2.2",
-    "commander": "^11.0.0",
+    "commander": "^13.1.0",
     "cookie-parser": "^1.4.6",
     "google-auth-library": "^9.15.1",
     "graphql": "^16.7.1",
